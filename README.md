@@ -1,6 +1,6 @@
 # QHack23-Quantum-Coding-Challenges
 
-![alt text](https://github.com/RandomProjects-db/QHack23-Quantum-Coding-Challenges/blob/main/1.png?raw=true)
+![alt text](https://github.com/RandomProjects-db/QHack23-Quantum-Coding-Challenges/blob/main/Header.png?raw=true)
 ![alt text](https://github.com/RandomProjects-db/QHack23-Quantum-Coding-Challenges/blob/main/2.png?raw=true)
 ![alt text](https://github.com/RandomProjects-db/QHack23-Quantum-Coding-Challenges/blob/main/3.png?raw=true)
 ![alt text](https://github.com/RandomProjects-db/QHack23-Quantum-Coding-Challenges/blob/main/4.png?raw=true)
